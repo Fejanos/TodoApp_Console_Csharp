@@ -62,7 +62,7 @@ Tasks are stored in JSON and automatically loaded/saved:
 
 ### Common pitfalls
 - ✅ `dotnet run` → works fine, reads/writes `todos.json`
-- ❌ Forgetting to copy `todos.jso`n → shows "File not found"
+- ❌ Forgetting to copy `todos.json` → shows "File not found"
 - Place `todos.json` next to the compiled program in `bin/Debug/net9.0/`
 
 ### Roadmap
